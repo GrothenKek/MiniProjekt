@@ -5,7 +5,7 @@ const config = require('../config.js');
 const model = require('../models/models.js');
 const {joke} = model;
 
-const URI = `mongodb+srv://Grothen:p4ndek4gek0ngen@jokeservice.0lfnc.mongodb.net/chatserver?retryWrites=true&w=majority`
+const URI = `mongodb+srv://Grothen:p4ndek4gek0ngen@jokeservice.0lfnc.mongodb.net/jokesdb?retryWrites=true&w=majority`
 
 mongoose.connect(URI, { useNewUrlParser: true, useUnifiedTopology: true });
 
