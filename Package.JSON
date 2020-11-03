@@ -4,5 +4,19 @@
         "mongoose": "^5.10.9",
         "should": "^13.2.3",
         "supertest": "^5.0.0"
-    }
+    },
+    "name": "opgave15.1",
+    "version": "1.0.0",
+    "main": "app.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GrothenKek/miniProjekt"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GrothenKek/Opgave15.1/issues"
+    },
+    "homepage": "https://github.com/GrothenKek/Opgave15.1#readme",
+    "description": ""
 }
