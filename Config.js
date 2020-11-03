@@ -1,7 +1,7 @@
 // config.js
 const config = {
-    databaseURI= 'mongodb + srv://Grothen:p4ndek4gekongen@jokeservice.0lfnc.mongodb.net/JokeService?retryWrites=true&w=majority' // or MongoDB Atlas connection URI/
-    
+    databaseURI: "mongodb + srv://Grothen:p4ndek4gek0ngen@jokeservice.0lfnc.mongodb.net/chatserver?retryWrites=true&w=majority",
+    localport : 8080 
 };
 
 module.exports = config;
